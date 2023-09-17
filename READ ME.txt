@@ -1,0 +1,2 @@
+-install streamlit
+-in cmd type - streamlit run "<PATH OF ui.py>"
